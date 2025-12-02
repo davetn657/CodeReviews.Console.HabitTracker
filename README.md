@@ -17,7 +17,6 @@ Console based CRUD application to track habits using C# and SQLite
 
 ## Features
 - SQLite database connection
-	-
 - A console based UI
 - CRUD DB functions
 - Basic yearly summaries
