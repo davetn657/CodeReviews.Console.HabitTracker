@@ -316,7 +316,7 @@ void InsertRecord()
         connection.Close();
 
         Console.Clear();
-        Console.WriteLine($"Added data: ({date}, {quantity.ToString()}) to database");
+        Console.WriteLine($"Added data: ({date}, {quantity}) to database");
     }
 }
 
